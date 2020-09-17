@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9618b01d-b170-4037-8870-c909f061329d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/九姨、九姨夫 - 清新的小女孩 (缅甸语原版).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/周思涵、Ayo97 - 感谢你曾来过.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/孟颖 - 一个人挺好.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/小阿七 - 那女孩对我说 (正式版).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/张泽熙 - 那个女孩.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/木小雅-可能否.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/李健 贝加尔湖畔.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/李荣浩 - 年少有为.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/杨丞琳 - 年轮说.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/林俊杰 - 可惜没如果.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/梁博 - 男孩 (Live).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/田馥甄 - 你就不要想起我.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/艺晨 - 四块五.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/袁维娅-说散就散.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/许继雯_ - 遥不可及的你.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/music/鱼大仙儿 - 我曾.mp3" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/springboot-music/ss/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot-music" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/SsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="392" column="27" selection-start-line="392" selection-start-column="27" selection-end-line="392" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#li#4;n#ul#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#3;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#5;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#7;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://localhost:8080</find>
+      <find>musicLink</find>
+      <find>myb</find>
+      <find>getCount</find>
+      <find>userService</find>
+      <find>request</find>
+      <find>/test</find>
+      <find>mainpage</find>
+      <find>英文字母</find>
+      <find>entity</find>
+      <find>baseResultMap</find>
+      <find>loginPage</find>
+      <find>二维码</find>
+      <find>二维码2</find>
+      <find>getMyMusicList</find>
+      <find>song_id</find>
+      <find>歌曲收藏成功，请去我的音乐查看</find>
+      <find>addMusicCollect</find>
+      <find>data</find>
+      <find>fav</find>
+      <find>cursor</find>
+      <find>rQi3</find>
+      <find>分页</find>
+      <find>上一页</find>
+      <find>下一页</find>
+      <find>Current pag</find>
+      <find>Current page is 1</find>
+      <find>pagination</find>
+      <find>z1</find>
+      <find>落</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>index</replace>
+      <replace />
+      <replace>二维码2</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/SsApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/mapper/ss/MusicLinkMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/mainpage.html" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/mapper/ss/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/css/register.css" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/TestController.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/QQmusic.html" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/UserController.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/mapper/ss/TestMapper.xml" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/mapper/IUserMapper.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/impl/MusicLinkService.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/运行说明.txt" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/register.html" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/IMyMusicService.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/MyMusicController.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/impl/MyMusicService.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/mapper/IMyMusicMapper.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitattributes" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/css/bangdan.css" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/MusicLinkController.java" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/js/tableList.js" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/bangdan.html" />
+        <option value="$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ss" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ss" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="vv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-music" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-music" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginindexNum" value="236" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584252574477" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\music workSpace\springboot-music\springboot-music\ss" />
+      <recent name="D:\music workSpace\springboot-music\springboot-music\ss\src\main\resources\public\music" />
+      <recent name="D:\music workSpace\springboot-music\springboot-music\ss\src\main\resources\public\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SsApplication">
+    <configuration name="ECS on Alibaba Cloud" type="ECS_RUN_CONFIGRATION" factoryName="Ecs configuration factory">
+      <option name="address" />
+      <option name="alreadyReset" value="true" />
+      <option name="autoOpen" value="false" />
+      <option name="command" value="" />
+      <option name="defaultTabIdx" value="0" />
+      <option name="ecsInstance">
+        <EcsInstance>
+          <option name="OSType" value="linux" />
+          <option name="instanceId" value="i-uf6dd349oeo16wqceoaa" />
+          <option name="instanceName" value="iZuf6dd349oeo16wqceoaaZ" />
+          <option name="netType" value="vpc" />
+          <option name="privateIps" value="172.19.52.196" />
+          <option name="publicIps" value="101.132.40.200" />
+          <option name="regionId" value="cn-shanghai" />
+          <option name="tags">
+            <list />
+          </option>
+        </EcsInstance>
+      </option>
+      <option name="hostTagId" value="0" />
+      <option name="location" value="/home/springboot/springbootMusic3" />
+      <option name="pathOrUrl" value="E:\我的U盘\实训项目最终版本\2020-02-29\springboot-music.jar" />
+      <option name="tagId" value="0" />
+      <option name="terminalCommand" />
+      <option name="type" value="ECS" />
+      <option name="uploadType" value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ss.vv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ss.vv.SsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9618b01d-b170-4037-8870-c909f061329d" name="Default Changelist" comment="" />
+      <created>1554882860074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554882860074</updated>
+      <workItem from="1554882861587" duration="353000" />
+      <workItem from="1554890113866" duration="4449000" />
+      <workItem from="1555053818702" duration="1359000" />
+      <workItem from="1555055226018" duration="2253000" />
+      <workItem from="1555071604327" duration="4074000" />
+      <workItem from="1555082583373" duration="47000" />
+      <workItem from="1555141431737" duration="2756000" />
+      <workItem from="1555205653496" duration="4644000" />
+      <workItem from="1555254858659" duration="197000" />
+      <workItem from="1555504504343" duration="664000" />
+      <workItem from="1555599832541" duration="420000" />
+      <workItem from="1555730198117" duration="1966000" />
+      <workItem from="1555733302708" duration="608000" />
+      <workItem from="1555738533374" duration="44000" />
+      <workItem from="1555739282225" duration="1385000" />
+      <workItem from="1555749111009" duration="931000" />
+      <workItem from="1555776531739" duration="102000" />
+      <workItem from="1556614707552" duration="2094000" />
+      <workItem from="1556628746725" duration="95000" />
+      <workItem from="1556628904721" duration="1211000" />
+      <workItem from="1556633462832" duration="427000" />
+      <workItem from="1556984922383" duration="150000" />
+      <workItem from="1557882439702" duration="1493000" />
+      <workItem from="1557990910123" duration="725000" />
+      <workItem from="1558005686473" duration="2038000" />
+      <workItem from="1558012647034" duration="954000" />
+      <workItem from="1558023735970" duration="61000" />
+      <workItem from="1558060756416" duration="9624000" />
+      <workItem from="1558145902929" duration="647000" />
+      <workItem from="1558173997990" duration="616000" />
+      <workItem from="1558354948571" duration="629000" />
+      <workItem from="1558416814126" duration="371000" />
+      <workItem from="1558436165722" duration="1825000" />
+      <workItem from="1558522803237" duration="1217000" />
+      <workItem from="1558580258117" duration="1395000" />
+      <workItem from="1558587635247" duration="1826000" />
+      <workItem from="1558930782244" duration="8411000" />
+      <workItem from="1559002273961" duration="11212000" />
+      <workItem from="1559019013149" duration="2276000" />
+      <workItem from="1559058420837" duration="164000" />
+      <workItem from="1559093158326" duration="2261000" />
+      <workItem from="1559113359110" duration="3309000" />
+      <workItem from="1559130914833" duration="9301000" />
+      <workItem from="1559181796796" duration="1952000" />
+      <workItem from="1559313722429" duration="1229000" />
+      <workItem from="1559372751313" duration="879000" />
+      <workItem from="1559375506431" duration="11000" />
+      <workItem from="1559375559074" duration="79000" />
+      <workItem from="1559383064481" duration="642000" />
+      <workItem from="1559392100445" duration="6223000" />
+      <workItem from="1559438577484" duration="16120000" />
+      <workItem from="1559521125259" duration="619000" />
+      <workItem from="1559544891604" duration="1411000" />
+      <workItem from="1559550312096" duration="647000" />
+      <workItem from="1559640177780" duration="75000" />
+      <workItem from="1559696633522" duration="4900000" />
+      <workItem from="1559738715915" duration="3152000" />
+      <workItem from="1559780842638" duration="8747000" />
+      <workItem from="1559825260469" duration="5936000" />
+      <workItem from="1559871067676" duration="19778000" />
+      <workItem from="1559959964852" duration="6216000" />
+      <workItem from="1559989866335" duration="932000" />
+      <workItem from="1560044794600" duration="2777000" />
+      <workItem from="1560149772124" duration="541000" />
+      <workItem from="1560214026148" duration="19000" />
+      <workItem from="1560215633374" duration="4732000" />
+      <workItem from="1560299663656" duration="5987000" />
+      <workItem from="1560337618415" duration="986000" />
+      <workItem from="1560385809078" duration="3068000" />
+      <workItem from="1560495097352" duration="729000" />
+      <workItem from="1560734409041" duration="1405000" />
+      <workItem from="1561082964888" duration="1885000" />
+      <workItem from="1561206607007" duration="1193000" />
+      <workItem from="1564824914788" duration="935000" />
+      <workItem from="1564900527508" duration="18047000" />
+      <workItem from="1564970195178" duration="2028000" />
+      <workItem from="1564985215611" duration="1062000" />
+      <workItem from="1565853361975" duration="3221000" />
+      <workItem from="1565865114948" duration="64000" />
+      <workItem from="1566387067719" duration="1798000" />
+      <workItem from="1566475904475" duration="768000" />
+      <workItem from="1567567292045" duration="701000" />
+      <workItem from="1568258960946" duration="683000" />
+      <workItem from="1568444880738" duration="102000" />
+      <workItem from="1569306623160" duration="950000" />
+      <workItem from="1569392759271" duration="1219000" />
+      <workItem from="1569395705628" duration="604000" />
+      <workItem from="1569413101129" duration="8489000" />
+      <workItem from="1569745038392" duration="1663000" />
+      <workItem from="1570791044108" duration="1373000" />
+      <workItem from="1572254004461" duration="299000" />
+      <workItem from="1572259466293" duration="735000" />
+      <workItem from="1572264090836" duration="867000" />
+      <workItem from="1572311093714" duration="9478000" />
+      <workItem from="1572397703821" duration="646000" />
+      <workItem from="1572418445714" duration="707000" />
+      <workItem from="1572484062050" duration="50000" />
+      <workItem from="1572494831106" duration="6421000" />
+      <workItem from="1573029225800" duration="1636000" />
+      <workItem from="1573123336404" duration="1574000" />
+      <workItem from="1573453834149" duration="4703000" />
+      <workItem from="1573469696160" duration="37000" />
+      <workItem from="1573627220621" duration="178000" />
+      <workItem from="1574827469984" duration="3991000" />
+      <workItem from="1575337606343" duration="1322000" />
+      <workItem from="1575441649505" duration="975000" />
+      <workItem from="1575444309888" duration="32000" />
+      <workItem from="1578408039926" duration="1457000" />
+      <workItem from="1582971328121" duration="10258000" />
+      <workItem from="1582983493184" duration="11000" />
+      <workItem from="1584177135394" duration="31099000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1554891626155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554891626155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1555078889593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555078889593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1555254938299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555254938299</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updata MusicLinkController">
+      <created>1555600064667</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555600064667</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updata localhost:8080">
+      <created>1558094541123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558094541123</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updata localhost:8080">
+      <created>1558102394585</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558102394585</updated>
+    </task>
+    <task id="LOCAL-00007" summary="解决了song_id报错的问题，对代码进行了优化，同时也修改了主页面">
+      <created>1564908305335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564908305335</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update">
+      <created>1564908654870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564908654870</updated>
+    </task>
+    <task id="LOCAL-00009" summary="更新数据库，user表新增create_time列">
+      <created>1584206433007</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584206433007</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更改特效排行榜区域的歌曲">
+      <created>1584252553574</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584252553574</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="313637000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.28772637" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.26340482" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021097" side_tool="true" weight="0.26340482" />
+      <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.26340482" />
+      <window_info id="Alibaba Cloud Explorer" order="8" weight="0.1529175" />
+      <window_info id="JRebel" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.71529746" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.6402266" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4976526" visible="true" weight="0.1855524" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033534" side_tool="true" weight="0.76628894" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.82152975" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" weight="0.6558074" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5023474" side_tool="true" weight="0.16005665" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="MyBatis Log" order="17" weight="0.048158642" />
+      <window_info anchor="bottom" id="Debug" order="18" weight="0.47733712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1750503" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32997987" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.28705567" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.26340482" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021097" side_tool="true" weight="0.26340482" />
+      <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.26340482" />
+      <window_info id="Alibaba Cloud Explorer" order="8" weight="0.1529175" />
+      <window_info id="JRebel" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.71529746" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" visible="true" weight="0.08923513" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4976526" weight="0.7492918" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033534" side_tool="true" weight="0.76628894" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.82152975" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" weight="0.6558074" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5023474" side_tool="true" weight="0.16005665" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="MyBatis Log" order="17" weight="0.048158642" />
+      <window_info anchor="bottom" id="Debug" order="18" weight="0.47733712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1750503" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32997987" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="updata MusicLinkController" />
+    <MESSAGE value="updata localhost:8080" />
+    <MESSAGE value="解决了song_id报错的问题，对代码进行了优化，同时也修改了主页面" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="更新数据库，user表新增create_time列" />
+    <MESSAGE value="更改特效排行榜区域的歌曲" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改特效排行榜区域的歌曲" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/common/IOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" column="79" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/mapper/ss/TestMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/mapper/ss/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/common/AbstractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/common/WebResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="83" column="23" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/css/bootstrap.min14ed.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/css/bangdan.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/mapper/ss/MusicLinkMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/mapper/ITestMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/css/mainpage1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="636" column="18" selection-start-line="636" selection-start-column="18" selection-end-line="636" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17948">
+          <caret line="641" column="16" lean-forward="true" selection-start-line="641" selection-start-column="16" selection-end-line="641" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/musicSearchTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1344">
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/QQmusic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1655">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/songlist.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/impl/MusicLinkService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+          <folding>
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/impl/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/MyMusicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="70" column="59" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/ITestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/IMusicLinkService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/impl/MyMusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/IMyMusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/service/impl/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/mapper/IUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="20" column="88" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/domain/MyMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/domain/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/mapper/IMyMusicMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4229">
+          <caret line="252" selection-start-line="252" selection-end-line="252" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/mapper/IMusicLinkMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/js/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/js/tableList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/static/js/bootstrap-paginator.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9160" selection-start-column="9160" selection-end-column="9160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/ss/controller/base/MusicLinkController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="93" column="45" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4386#4402#0" expanded="true" />
+            <element signature="e#4563#4574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/game.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/bangdan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2843">
+          <caret line="286" selection-start-line="286" selection-end-line="286" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z13.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/f8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/z23.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/z24.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/f9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z20.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z23.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z22.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/images/图片/z1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/java/com/ss/vv/SsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-music/ss/src/main/resources/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="392" column="27" selection-start-line="392" selection-start-column="27" selection-end-line="392" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#6;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#li#4;n#ul#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#5;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#7;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|springboot-music</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
